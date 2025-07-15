@@ -1,0 +1,16 @@
+# ⚡ Electricity Bill Management System (Java)
+
+This is a simple Java console-based project that calculates electricity bills using **Deed Number authentication**.
+
+## ✅ Features
+- User login with Deed Number
+- Validates against a list of pre-approved Deed Numbers
+- Input name and units consumed
+- Calculates total bill using slab-based pricing
+- Prints a full bill summary
+
+## 💻 How to Run
+
+1. Save the code in a file named `ElectricityBill.java`
+2. Open terminal/command prompt
+3. Compile the code:
